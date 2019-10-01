@@ -1,0 +1,33 @@
+#top {
+    color: rgb(139, 91, 56);
+    font-size: 100px;
+}
+
+p {
+    font-weight: 700px;
+    text-align: justify;
+    text-decoration: line-through;
+    background-color: aqua;
+    background-image: url('https://znews-photo.zadn.vn/w1024/Uploaded/qhj_yvobvhfwbv/2018_07_18/Nguyen_Huy_Binh1.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 5px dashed red;
+    border-radius: 25px;
+    padding: 25px 50px 10px 5px;
+    margin: 50px;
+}
+
+.text-red {
+    color: red
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+img:hover {
+    width: 100px;
+}
