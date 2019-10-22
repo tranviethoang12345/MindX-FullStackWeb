@@ -1,6 +1,7 @@
 #top {
     color: rgb(139, 91, 56);
     font-size: 100px;
+    position: sticky;
 }
 
 p {

@@ -8,8 +8,7 @@
 span {
     display: inline-block;
     width: 100px;
-    height: 24px;
-    padding: 6px 0 0 0;
+    line-height: 30px;
 }
 
 span:hover {
@@ -17,10 +16,6 @@ span:hover {
     background: #9CD08F;
     color: #FFFFFF;
 }
-
-
-
-
 
 .menu_vertical{
     width: 100px;

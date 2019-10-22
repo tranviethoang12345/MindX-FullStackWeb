@@ -1,0 +1,7 @@
+https://nodejs.org/dist/latest-v10.x/docs/api/
+https://www.npmjs.com/
+
+Install
+npm init
+npm install 
+npm install nodemon -g //edit 
